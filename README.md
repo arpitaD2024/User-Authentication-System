@@ -6,8 +6,6 @@ This project is a Django web application focused on user authentication and mana
 
 This Django 5.0 project provides user authentication (login and signup) and displays a welcome message upon successful login.  It utilizes HTML templates for the user interface and interacts with a database (SQLite by default, with MySQL also referenced in the code).
 
-**Important:** This project is for educational purposes and contains security vulnerabilities (see below). Do not use it in a production environment without addressing these weaknesses.
-
 ## Features
 
 *   User registration (signup).
